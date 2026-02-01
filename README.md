@@ -39,7 +39,7 @@ auto main(signed argc, char** argv) -> decltype(argc)
 </div>
 <br/>
 <div align="center">📗</div>
-<div align="center">/* I mainly write frontend/browser extensions/desktop software. I want to improve the world by creating free open source projects. I condemn vibe-coding, but occasionally indulge in it. I love improving my environment, so don't be surprised if I connect a Neuralink to turn on a toaster with the power of thought xd */</div>
+<div align="center">/* I mainly write frontend/browser extensions/desktop software. I want to improve the world by creating free open source projects. I love improving my environment, so don't be surprised if I connect a Neuralink to turn on a toaster with the power of thought xd */</div>
 <div align="center">📕</div>
 <br/>
 
@@ -54,4 +54,5 @@ auto main(signed argc, char** argv) -> decltype(argc)
 </table>
 
 _Actually, I've had very little time to study all of this, and I've also been hindered by constant burnout, but I hope things will improve in 2026 :<_
+
 
