@@ -35,7 +35,7 @@ auto main(signed argc, char** argv) -> decltype(argc)
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="50" />
 </p>
 <div align="center">
-<code>} /* i love c++ the most >‿< */</code>
+<code>} /* I love c++ the most >‿< */</code>
 </div>
 <br/>
 <div align="center">📗</div>
@@ -74,3 +74,22 @@ _Actually, I've had very little time to study all of this, and I've also been hi
       "
     >
 
+<div align="center">
+<code>std::vector&ltsilly::svg_t&gt workflow = {\</code>
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50" />
+    <img src="https://i.imgur.com/O8VX5pn.png" width="50" /> <!-- tmux -->
+    <img src="https://i.imgur.com/EqfwWAn.png" width="50" /> <!-- tampermonkey -->
+    <img src="https://i.imgur.com/Poq7TDi.png" width="50" /> <!-- doxygen -->
+</p>
+<div align="center">
+<code>} /* Neovim is awesome, btw! */</code>
