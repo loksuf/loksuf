@@ -6,13 +6,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zamirdefis&color=FE7B72&style=for-the-badge">
 </div><br/>
-
-```cpp
-#include <stdio.h> /*g++ main.cpp -o UWU */
-#include <cstdlib> /*./UWU*/ // ~RAWR
-auto main(signed argc, char** argv) -> decltype(argc)
-{ printf("HellOwO!\n"); return EXIT_SUCCESS; }
-```
     
 <img src="https://i.imgur.com/dSwtgMX.png" align="right" width="300"></img>
 - $${\color{red}I\ use\ Arch,\ btw}$$
@@ -63,9 +56,10 @@ auto main(signed argc, char** argv) -> decltype(argc)
   <tr><td><strong>СSS</strong></td><td><code>1.5/10</code></td><td>Same as with JS</td></tr>
   <tr><td><strong>HTML</strong></td><td><code>1/10</code></td><td>Same as with JS</td></tr>
 </table>
-</details>
 
-_Actually, I've had very little time to study all of this, and I've also been hindered by constant burnout, but I hope things will improve in 2026 :<_
+<i>Actually, I've had very little time to study all of this, and I've also been hindered by constant burnout, but I hope things will improve in 2026 :<</i>
+
+</details>
 
 <div align="center">
 <code>std::vector&ltsilly::svg_t&gt workflow = {\</code>
@@ -128,4 +122,5 @@ _-- # /* \<!-- Feel free to write to me if you want anything, I will always resp
         object-fit: cover;
       "
     >
+
 
