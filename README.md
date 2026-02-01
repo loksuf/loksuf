@@ -45,8 +45,8 @@ auto main(signed argc, char** argv) -> decltype(argc)
 
 ### How I evaluate my skills 💡: 
 <table>
-  <tr><td><strong>C++</strong></td><td><code>7/10</code></td><td>I have been studying it for a long time (from 2024), but I feel its immense, infinitely complex expanses</td></tr>
-  <tr><td><strong>Lua/Luau</strong></td><td><code>4.5/10</code></td><td>Started studying in 2022, but quit after byfron was added. SometActually, I've had very little time to study all of this, and I've also been hindered by constant burnout, but I hope things will improve in 2026 :<imes I come back</td></tr>
+  <tr><td><strong>C++</strong></td><td><code>6/10</code></td><td>I have been studying it for a long time (from 2024), but I feel its immense, infinitely complex expanses</td></tr>
+  <tr><td><strong>Lua/Luau</strong></td><td><code>4.5/10</code></td><td>Started studying in 2022 and quit after byfron was added. But sometimes I come back</td></tr>
   <tr><td><strong>JavaScript</strong></td><td><code>3.5/10</code></td><td>Began learning in 2026. I had long dreamed of writing my own extensions</td></tr>
   <tr><td><strong>Bash</strong></td><td><code>2/10</code></td><td>Since switching to Linux in 2025, I've started to get into it, though not super actively</td></tr>
   <tr><td><strong>СSS</strong></td><td><code>1.5/10</code></td><td>Same as with JS</td></tr>
@@ -54,3 +54,4 @@ auto main(signed argc, char** argv) -> decltype(argc)
 </table>
 
 _Actually, I've had very little time to study all of this, and I've also been hindered by constant burnout, but I hope things will improve in 2026 :<_
+
