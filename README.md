@@ -9,4 +9,12 @@
 <code>O_o</code>
 - $${\color{lightblue}I\ write\ code\ for\ fun,\ btw}$$
 <code>>_<</code>
-
+<br clear="right">
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="50" />
+</p>
