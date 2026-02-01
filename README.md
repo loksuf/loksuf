@@ -95,10 +95,10 @@ _Actually, I've had very little time to study all of this, and I've also been hi
 <div align="center">
 
 <table>
-<tr><td><strong><strong>Discord</strong></td><td><code>@pohnui</code></td>
-    <td><a href="https://discord.com"><kbd>/*ds has no links >:[*/</kbd></a></td></tr>
     <tr><td><strong><strong>Telegram</strong></td><td><code>@loksifity</code></td>
         <td><a href="https://t.me/loksifity"><kbd>link_t& /*click*/</kbd></a></td></tr>
+<tr><td><strong><strong>Discord</strong></td><td><code>@pohnui</code></td>
+    <td><a href="https://discord.com"><kbd>/*ds has no links >:[*/</kbd></a></td></tr>
         <tr><td><strong><strong>ИТД</strong></td><td><code>@loksuf</code></td>
             <td><a href="https://итд.com/loksuf"><kbd>link_t& /*click*/</kbd></a></td></tr>
 </table>
@@ -128,3 +128,4 @@ _-- # /* \<!-- Feel free to write to me if you want anything, I will always resp
         object-fit: cover;
       "
     >
+
