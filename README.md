@@ -55,4 +55,8 @@ auto main(signed argc, char** argv) -> decltype(argc)
 
 _Actually, I've had very little time to study all of this, and I've also been hindered by constant burnout, but I hope things will improve in 2026 :<_
 
-
+![Zamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamirdefis&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamirdefis&layout=compact&theme=vision-friendly-dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zamirdefis)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zamirdefis)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zamirdefis&theme=black-ice)](https://git.io/streak-stats)
