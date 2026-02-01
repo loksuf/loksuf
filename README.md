@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&pause=1000&color=AD8CF7&center=true&width=435&lines=HI+!!!!+0%E2%80%BF0;I+am+loksuf+!+(%F0%9F%8C%B8%E2%97%95%E2%80%BF%E2%97%95)" alt="Typing SVG" /></a>
+</div>
+
 ```cpp
 #include <stdio.h> /*g++ main.cpp -o UWU */
 #include <cstdlib> /*./UWU*/ // ~RAWR
@@ -33,3 +37,4 @@ auto main(signed argc, char** argv) -> decltype(argc)
 <div align="center">
 <code>} /* i love c++ the most >‿< */</code>
 </div>
+
