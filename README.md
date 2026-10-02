@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zamirdefis&color=FE7B72&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=loksuf&color=FE7B72&style=for-the-badge">
 </div><br/>
     
 <img src="https://i.imgur.com/dSwtgMX.png" align="right" width="300"></img>
@@ -105,7 +105,7 @@ _-- # /* \<!-- Feel free to write to me if you want anything, I will always resp
 </div>
 
 <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamirdefis&theme=aura_dark" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loksuf&theme=aura_dark" 
       width="106%"
       style="
         border-radius: 10px;
@@ -114,7 +114,7 @@ _-- # /* \<!-- Feel free to write to me if you want anything, I will always resp
       "
     >
 <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zamirdefis&theme=aura_dark" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loksuf&theme=aura_dark" 
       width="106%"
       style="
         border-radius: 10px;
